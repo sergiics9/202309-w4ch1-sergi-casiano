@@ -3,15 +3,13 @@
 }
 
 :root {
-  --background-main-color: #c2e7da;
-  --background-secondary-color: #600;
+  --background-main-color: #80eaff;
+  --background-secondary-color: rgb(9, 9, 9);
   --background-small-items: #060;
-  --main-color: #6290c3;
+  --main-color: #d400ff;
   --text-color: #000046;
 }
-* {
-  box-sizing: border-box;
-}
+
 body {
   margin: 0;
   color: var(--text-color);
